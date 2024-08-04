@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'unicons';
+	src: url(../../assets/fonts/unicons-1f97f14adcc45a0e5b86acd72356fff8.eot?42479262=) format('embedded-opentype'),
+	url(../../assets/fonts/unicons-1f97f14adcc45a0e5b86acd72356fff8.eot?42479262=) format('embedded-opentype'),
+	url(../../assets/fonts/unicons-00a04a7a7d58a9525812f54bc254ab44.woff2?42479262=) format('woff2'),
+	url(../../assets/fonts/unicons-02eddb8758644feb242b3531e830a981.woff?42479262=) format('woff'),
+	url(../../assets/fonts/unicons-2122d4ed9e4ba1adc6b9b02164b3b94b.ttf?42479262=) format('truetype'),
+	url(../../assets/fonts/unicons-615726829a6d3e81aca154bd6a48c483.svg?42479262=) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
